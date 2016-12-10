@@ -3,7 +3,7 @@
 # source activate mathiasg_vd_env
 # module add openmind/xvfb-fix/0.1
 # export QT_API=pyqt
-# python plot_brain.py -i <input> -o <output> -c <path to conte atlas>
+# python plot_brain.py -i <input> -o <output> -c <path to conte atlas> -r <path to resting atlas>
 
 # https://github.com/cgoldberg/xvfbwrapper
 
